@@ -9,7 +9,7 @@
       <h2>{{ site.title2 | escape }}</h2>
       <h2>{{ site.title3 | escape }}</h2>
     </div>
-    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 header-right">
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 header-left">
       <ul class="icons no-print">
         {% for link in site.additional_links %}
           <li>
@@ -18,6 +18,13 @@
             </a>
           </li>
         {% endfor %}
+        {%- if site.email -%}
+          <li>
+            <a target="_blank" href="mailto:{{ site.email }}" class="button button--sacnite button--round-l">
+              <i class="fas fa-envelope" title="Email"></i>
+            </a>
+          </li>
+        {%- endif -%}
         {%- if site.dribbble_username -%}
           <li>
             <a target="_blank" href="https://dribbble.com/{{ site.dribbble_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
@@ -111,11 +118,6 @@
         {%- endif -%}
       </ul>
 
-      {%- if site.email -%}
-        <p>
-          {{ site.email_title | default: "Email" }}: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
-        </p>
-      {%- endif -%}
       {%- if site.phone -%}
         <p>
           {{ site.phone_title | default: "Phone" }}: {{ site.phone | escape }}
