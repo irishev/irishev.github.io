@@ -7,12 +7,9 @@ version: 2
 
 # Personal info
 name: Jun-Hyung Park
-title: |
-  Postdoc Researcher
-
-  BK21 FOUR R&E Center for Artificial Intelligence
-  
-  Korea University
+title: Postdoc Researcher
+title: BK21 FOUR R&E Center for Artificial Intelligence
+sub_title: Korea University
 email: irish07@korea.ac.kr
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
