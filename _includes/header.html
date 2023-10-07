@@ -11,17 +11,17 @@
     </div>
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 header-left">
       <ul class="icons no-print">
-        {% for link in site.additional_links %}
-          <li>
-            {% include a.html href=link.url class="button button--sacnite button--round-l" %}
-              <i class="{{ link.icon }}" title="{{ link.title | escape }}"></i>
-            </a>
-          </li>
-        {% endfor %}
         {%- if site.email -%}
           <li>
             <a target="_blank" href="mailto:{{ site.email }}" class="button button--sacnite button--round-l">
               <i class="fas fa-envelope" title="Email"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.googlescholar_username -%}
+          <li>
+            <a target="_blank" href="https://scholar.google.com/citations?user={{ site.googlescholar_username| escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-google" title="Google scholar link"></i>
             </a>
           </li>
         {%- endif -%}
@@ -109,13 +109,13 @@
             </a>
           </li>
         {%- endif -%}
-        {%- if site.googlescholar_username -%}
+        {% for link in site.additional_links %}
           <li>
-            <a target="_blank" href="https://scholar.google.com/citations?user={{ site.googlescholar_username| escape }}" class="button button--sacnite button--round-l">
-              <i class="fab fa-google" title="Google scholar link"></i>
+            {% include a.html href=link.url class="button button--sacnite button--round-l" %}
+              <i class="{{ link.icon }}" title="{{ link.title | escape }}"></i>
             </a>
           </li>
-        {%- endif -%}
+        {% endfor %}
       </ul>
 
       {%- if site.phone -%}
