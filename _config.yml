@@ -72,6 +72,10 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Publications # Title for the section
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      *: equal contribution
+
     layout: list # Type of content section (list/text)
     content:
       - layout: top-right
@@ -79,8 +83,6 @@ content:
                       # other value (or no value) means no border will be displayed
         title: "2023"
         description: | # this will include new lines to allow paragraphs
-          *: equal contribution
-
           - DIVE: Towards Descriptive and Diverse Visual Commonsense Generation          
             Jun-Hyung Park\*, Hyuntae Park\*, Youjin Kang, Eojin Jeon, and SangKeun Lee\
             To appear in Proc. of EMNLP 2023
