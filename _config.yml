@@ -91,7 +91,7 @@ content:
 
           - #### SMoP: Towards Efficient and Effective Prompt Tuning with Sparse Mixture-of-Prompts
             Joon-Young Choi, Junho Kim, **Jun-Hyung Park**, Wing-Lam Mok, and SangKeun Lee\
-            To appear in Proceedings of **EMNLP 2023**
+            To appear in Proceedings of **EMNLP 2023** (short)
 
           - #### Client-Customized Adaptation for Parameter-Efficient Federated Learning
             Yeachan Kim\*, Junho Kim\*, Wing-Lam Mok, **Jun-Hyung Park** and SangKeun Lee\
@@ -157,11 +157,6 @@ content:
             Byung-Ju Choi, **Jun-Hyung Park**, and SangKeun Lee\
             Proceedings of **NAACL 2019**
 
-      - layout: top-right
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: "2018"
-        description: | 
           - #### meChat: In-Device Personal Assistant for Conversational Photo Sharing
             Kang-Min Kim\*, Woo-Jong Ryu\*, **Jun-Hyung Park**, SangKeun Lee\
             **IEEE IC** Volume 23, Issue 2
