@@ -71,6 +71,32 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: 2023
+        description: | # this will include new lines to allow paragraphs
+          (* equal contribution)
+
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link_text: Link Text
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
+        #   Short overview of the project (optional)
+      - title: | 
+          DIVE: Towards Descriptive and Diverse Visual Commonsense Generation
+        sub_title: Jun-Hyung Park*, Hyuntae Park*, Youjin Kang, Eojin Jeon, and SangKeun Lee
+        caption: To appear in Proc. of EMNLP 2023
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
