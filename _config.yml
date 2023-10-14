@@ -55,7 +55,7 @@ googlescholar_username: Sx5gM_8AAAAJ
 # about_title: 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Postdoc researcher in BK21 FOUR R&E Center for Artificial Intelligence at Korea University. I have obtained my Ph.D. in Computer Science from Korea University, advised by Prof. SangKeun Lee. I received B.S. in Computer Science from Korea University.
+  I am a postdoc researcher in BK21 FOUR R&E Center for Artificial Intelligence at Korea University. I have obtained my Ph.D. in Computer Science from Korea University, advised by Prof. SangKeun Lee. I received B.S. in Computer Science from Korea University.
 
   My primary research lies in the area of natural language processing and efficient AI:
   - Language Modeling: I study new methods to improve the various aspects of language models including effectiveness, efficiency, diversity, etc. I address any pipeline of language model development, ranging from pre-training to inference.
