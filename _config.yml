@@ -58,9 +58,9 @@ about_content: | # this will include new lines to allow paragraphs
   I am a postdoc researcher in BK21 FOUR R&E Center for Artificial Intelligence at Korea University. I have obtained my Ph.D. in Computer Science from Korea University, advised by Prof. SangKeun Lee. I received B.S. in Computer Science from Korea University.
 
   My primary research lies in the area of natural language processing and efficient AI:
-  - Language Modeling: I study new methods to improve the various aspects of language models including effectiveness, efficiency, diversity, etc. I address any pipeline of language model development, ranging from pre-training to inference.
-  - Commonsense Reasoning: I study new methods to improve the commonsense reasoning capabilities of pre-trained models including language models and multi-modal transformers. I am interested in augmenting the models with (implicit) commonsense knowledge by incorporating knowledge graphs and retrieving texts.
-  - Model Compression: I study compression and acceleration methods of pre-trained models for efficient inference, such as network pruning, quantization, and knowledge distillation.
+  - Language Modeling: Improving the various aspects of language models including effectiveness, efficiency, diversity, multilinguality, etc. Addressing any pipeline of language model development, ranging from pre-training to inference.
+  - Commonsense Reasoning: Improving the commonsense reasoning capabilities of pre-trained models including language models and multi-modal transformers. Interested in augmenting the models with (implicit) commonsense knowledge by incorporating knowledge graphs and retrieving texts.
+  - Model Compression: Compression and acceleration methods of pre-trained models for efficient inference, such as network pruning, quantization, and knowledge distillation.
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
