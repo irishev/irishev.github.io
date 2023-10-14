@@ -77,7 +77,7 @@ content:
       - layout: right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 2023
+        title: "2023"
         description: | # this will include new lines to allow paragraphs
           (* equal contribution)
           DIVE: Towards Descriptive and Diverse Visual Commonsense Generation
