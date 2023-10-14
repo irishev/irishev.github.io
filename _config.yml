@@ -105,6 +105,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: "2022"
+        description: | 
           - Break it Down into BTS: Basic, Tiniest Subword Units for Korean\
             Nayeon Kim\*, Jun-Hyung Park\*, Joon-Young Choi, Eojin Jeon, Youjin Kang, and SangKeun Lee\
             Proceedings of EMNLP 2022
@@ -133,6 +134,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: "2021"
+        description: | 
           - "KOAS: Korean Text Offensiveness Analysis System\
             San-Hee Park\*, Kang-Min Kim\*, Seonhee Cho\*, Jun-Hyung Park, Hyuntae Park, Hyuna Kim, Seongwon Chung, and SangKeun Lee\
             Proc. of EMNLP 2021 (Demo)"
