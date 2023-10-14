@@ -92,7 +92,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - #### Korea University
             Ph.D. in Computer Science and Engineering\
-            Adviser: Prof. SangKeun Lee\
+            Adviser: <a href="http://dilab.korea.ac.kr">Prof. SangKeun Lee</a>\
             Mar 2018 - Feb 2023
 
           - #### Korea University
