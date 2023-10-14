@@ -1,6 +1,6 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository: irishev/irishev.github.io
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -223,7 +223,7 @@ content:
           - #### Korea University
             Postdoc researcher at BK21 FOUR R&E Center for Artificial Intelligence\
             Mar 2023 - Feb 2024
-            
+
   - title: Experience
     layout: list
     content:
