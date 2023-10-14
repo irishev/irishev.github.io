@@ -81,11 +81,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           (* equal contribution)
 
-          DIVE: Towards Descriptive and Diverse Visual Commonsense Generation
-          
-          Jun-Hyung Park*, Hyuntae Park*, Youjin Kang, Eojin Jeon, and SangKeun Lee
-          
-          To appear in Proc. of EMNLP 2023
+          - DIVE: Towards Descriptive and Diverse Visual Commonsense Generation          
+            Jun-Hyung Park*, Hyuntae Park*, Youjin Kang, Eojin Jeon, and SangKeun Lee
+            To appear in Proc. of EMNLP 2023
 
 
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
