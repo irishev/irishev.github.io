@@ -72,8 +72,6 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Publications # Title for the section
-    layout: text
-
     layout: list # Type of content section (list/text)
     content:
       - layout: text
@@ -127,7 +125,7 @@ content:
           - Examining the Impact of Adaptive Convolution on Natural Language Understanding\
             Jun-Hyung Park, Byung-Ju Choi, and SangKeun Lee\
             ESWA Vol 189, No. 116044
-            
+
           - KOAS: Korean Text Offensiveness Analysis System\
             San-Hee Park\*, Kang-Min Kim\*, Seonhee Cho\*, Jun-Hyung Park, Hyuntae Park, Hyuna Kim, Seongwon Chung, and SangKeun Lee\
             Proc. of EMNLP 2021 (Demo)
