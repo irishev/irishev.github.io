@@ -220,8 +220,8 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          - #### Korea University
-            Postdoc researcher at BK21 FOUR R&E Center for Artificial Intelligence\
+          - #### BK21 FOUR R&E Center for Artificial Intelligence, Korea University
+            Postdoc researcher\
             Mar 2023 - Feb 2024
 
   - title: Experience
