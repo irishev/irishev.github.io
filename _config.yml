@@ -73,11 +73,12 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Publications # Title for the section
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      *: equal contribution
 
     layout: list # Type of content section (list/text)
     content:
+      - layout: text
+        content: | # this will include new lines to allow paragraphs
+          *: equal contribution
       - layout: top-right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
