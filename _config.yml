@@ -81,23 +81,23 @@ content:
                       # other value (or no value) means no border will be displayed
         title: "2023"
         description: | # this will include new lines to allow paragraphs
-          - #### DIVE: Towards Descriptive and Diverse Visual Commonsense Generation\
+          - ##### DIVE: Towards Descriptive and Diverse Visual Commonsense Generation
             **Jun-Hyung Park**\*, Hyuntae Park\*, Youjin Kang, Eojin Jeon, and SangKeun Lee\
             To appear in Proceedings of EMNLP 2023
 
-          - #### Leap-of-Thought: Accelerating Transformers via Dynamic Token Routing\
+          - ##### Leap-of-Thought: Accelerating Transformers via Dynamic Token Routing
             Yeachan Kim, Junho Kim, **Jun-Hyung Park**, Mingyu Lee, and SangKeun Lee\
             To appear in Proceedings of EMNLP 2023
 
-          - #### SMoP: Towards Efficient and Effective Prompt Tuning with Sparse Mixture-of-Prompts\
+          - ##### SMoP: Towards Efficient and Effective Prompt Tuning with Sparse Mixture-of-Prompts
             Joon-Young Choi, Junho Kim, **Jun-Hyung Park**, Wing-Lam Mok, and SangKeun Lee\
             To appear in Proceedings of EMNLP 2023
 
-          - #### Client-Customized Adaptation for Parameter-Efficient Federated Learning\
+          - ##### Client-Customized Adaptation for Parameter-Efficient Federated Learning
             Yeachan Kim\*, Junho Kim\*, Wing-Lam Mok, **Jun-Hyung Park** and SangKeun Lee\
             Findings of ACL 2023
 
-          - #### Dynamic Structure Pruning for Compressing CNNs\
+          - ##### Dynamic Structure Pruning for Compressing CNNs
             **Jun-Hyung Park**, Yeachan Kim, Junho Kim, Joon-Young Choi, and SangKeun Lee\
             Proceedings of AAAI 2023
 
