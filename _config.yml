@@ -55,7 +55,7 @@ googlescholar_username: Sx5gM_8AAAAJ
 # about_title: 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a postdoc researcher in BK21 FOUR R&E Center for Artificial Intelligence at Korea University. I have obtained my Ph.D. in Computer Science from Korea University, advised by Prof. SangKeun Lee. I received B.S. in Computer Science from Korea University.
+  I am a postdoc researcher in BK21 FOUR R&E Center for Artificial Intelligence at Korea University. I have obtained my Ph.D. in Computer Science and Engineering from Korea University, advised by Prof. SangKeun Lee. I received B.S. in Computer Science and Engineering from Korea University.
 
   My primary research lies in the area of natural language processing and efficient AI:
   - Language Modeling: Improving the various aspects of language models including effectiveness, efficiency, diversity, multilinguality, etc. Addressing any pipeline of language model development, ranging from pre-training to inference.
@@ -191,11 +191,15 @@ content:
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # quote: >
         #   Short overview of the project (optional)
-        caption: Date Range (eg. 2016 - 2019)
         description: | # this will include new lines to allow paragraphs
-          - #### Korea University <p>Date Range (eg. 2016 - 2019)</p>
+          - #### Korea University
             Ph.D. in Computer Science and Engineering\
-            Adviser: Prof. SangKeun Lee
+            Adviser: Prof. SangKeun Lee\
+            Mar 2018 - Feb 2023
+
+          - #### Korea University
+            B.S. in Computer Science and Engineering\
+            Mar 2014 - Feb 2028
 
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -216,7 +220,10 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          - #### Postdoc Researcher
+          - #### Korea University
+            Postdoc researcher at BK21 FOUR R&E Center for Artificial Intelligence\
+            Mar 2023 - Feb 2024
+            
   - title: Experience
     layout: list
     content:
