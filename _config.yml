@@ -83,61 +83,61 @@ content:
         description: | # this will include new lines to allow paragraphs
           - #### DIVE: Towards Descriptive and Diverse Visual Commonsense Generation
             **Jun-Hyung Park**\*, Hyuntae Park\*, Youjin Kang, Eojin Jeon, and SangKeun Lee\
-            To appear in Proceedings of EMNLP 2023
+            To appear in Proceedings of **EMNLP 2023**
 
           - #### Leap-of-Thought: Accelerating Transformers via Dynamic Token Routing
             Yeachan Kim, Junho Kim, **Jun-Hyung Park**, Mingyu Lee, and SangKeun Lee\
-            To appear in Proceedings of EMNLP 2023
+            To appear in Proceedings of **EMNLP 2023**
 
           - #### SMoP: Towards Efficient and Effective Prompt Tuning with Sparse Mixture-of-Prompts
             Joon-Young Choi, Junho Kim, **Jun-Hyung Park**, Wing-Lam Mok, and SangKeun Lee\
-            To appear in Proceedings of EMNLP 2023
+            To appear in Proceedings of **EMNLP 2023**
 
           - #### Client-Customized Adaptation for Parameter-Efficient Federated Learning
             Yeachan Kim\*, Junho Kim\*, Wing-Lam Mok, **Jun-Hyung Park** and SangKeun Lee\
-            Findings of ACL 2023
+            **Findings of ACL 2023**
 
           - #### Dynamic Structure Pruning for Compressing CNNs
             **Jun-Hyung Park**, Yeachan Kim, Junho Kim, Joon-Young Choi, and SangKeun Lee\
-            Proceedings of AAAI 2023
+            Proceedings of **AAAI 2023**
 
       - layout: top-right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: "2022"
         description: | 
-          - Break it Down into BTS: Basic, Tiniest Subword Units for Korean\
+          - #### Break it Down into BTS: Basic, Tiniest Subword Units for Korean\
             **Jun-Hyung Park**\*, Nayeon Kim\*, Joon-Young Choi, Eojin Jeon, Youjin Kang, and SangKeun Lee\
-            Proceedings of EMNLP 2022
+            Proceedings of **EMNLP 2022**
 
-          - Tutoring Helps Students Learn Better: Improving Knowledge Distillation for BERT with Tutor Network\
+          - #### Tutoring Helps Students Learn Better: Improving Knowledge Distillation for BERT with Tutor Network\
             **Jun-Hyung Park**\*, Junho Kim\*, Mingyu Lee, Wing-Lam Mok, Joon-Young Choi, and SangKeun Lee\
-            Proceedings of EMNLP 2022
+            Proceedings of **EMNLP 2022**
 
-          - Efficient Pre-training of Masked Language Model via Concept-based Curriculum Masking\
+          - #### Efficient Pre-training of Masked Language Model via Concept-based Curriculum Masking\
             **Jun-Hyung Park**\*, Mingyu Lee\*, Junho Kim, Kang-Min Kim, and SangKeun Lee\
-            Proceedings of EMNLP 2022
+            Proceedings of **EMNLP 2022**
 
-          - Quantized Sparse Training: A Unified Trainable Framework for Joint Pruning and Quantization of DNNs\
+          - #### Quantized Sparse Training: A Unified Trainable Framework for Joint Pruning and Quantization of DNNs\
             **Jun-Hyung Park**, Kang-Min Kim, and SangKeun Lee\
-            ACM TECS Vol. 21, Issue. 5, No. 60
+            **ACM TECS** Vol. 21, Issue. 5, No. 60
 
-          - Learning from Missing Relations: Contrastive Learning with Commonsense Knowledge Graphs for Commonsense Inference\
+          - #### Learning from Missing Relations: Contrastive Learning with Commonsense Knowledge Graphs for Commonsense Inference\
             **Jun-Hyung Park**\*, Yong-Ho Jung\*, Joon-Young Choi, Mingyu Lee, Junho Kim, Kang-Min Kim, and SangKeun Lee\
-            Findings of ACL 2022
+            Findings of **ACL 2022**
 
-          - Examining the Impact of Adaptive Convolution on Natural Language Understanding\
+          - #### Examining the Impact of Adaptive Convolution on Natural Language Understanding\
             **Jun-Hyung Park**, Byung-Ju Choi, and SangKeun Lee\
-            ESWA Vol 189, No. 116044
+            **ESWA** Vol 189, No. 116044
 
       - layout: top-right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: "2021"
         description: | 
-          - "KOAS: Korean Text Offensiveness Analysis System\
+          - #### KOAS: Korean Text Offensiveness Analysis System\
             San-Hee Park\*, Kang-Min Kim\*, Seonhee Cho\*, **Jun-Hyung Park**, Hyuntae Park, Hyuna Kim, Seongwon Chung, and SangKeun Lee\
-            Proc. of EMNLP 2021 (Demo)"
+            Proc. of **EMNLP 2021** (Demo)
 
 
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
