@@ -55,13 +55,21 @@ googlescholar_username: Sx5gM_8AAAAJ
 # about_title: About Me (Use this to override about section title)
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hello!
+  I am a Postdoc researcher in BK21 FOUR R&E Center for Artificial Intelligence at Korea University. I have obtained my PhD in the Data Intelligence Lab at Korea University, advised by Prof. SangKeun Lee.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  My primary research lies in the area of natural language processing and efficient AI. Specifically:
+  - Language Modeling: I study new methods to improve the various aspects of language models including effectiveness, efficiency, diversity, etc. My approaches falls into any pipeline of language model development, ranging from pre-training to inference.
+  - Commonsense Reasoning: I study new methods to improve the commonsense reasoning capabilities of pre-trained models including LMs and multi-modal transformers. I am interested in augmenting the models with (implicit) commonsense knowledge by incorporating knowledge graphs and retrieving textual corpus.
+  - Model Compression: I study compression and acceleration methods of pre-trained models for efficient inference, such as structured pruning, quantization, and knowledge distillation.
+
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#   - Lists
+#   - Tables
+#   - <a href="google.com">Links</a>
+#   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
