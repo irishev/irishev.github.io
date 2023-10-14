@@ -71,6 +71,57 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: right
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        # title: Korea University
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link_text: Link Text
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
+        #   Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          - #### Korea University
+            Ph.D. in Computer Science and Engineering\
+            Adviser: Prof. SangKeun Lee\
+            Mar 2018 - Feb 2023
+
+          - #### Korea University
+            B.S. in Computer Science and Engineering\
+            Mar 2014 - Feb 2028
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-right
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        # title: Korea University
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link_text: Link Text
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
+        #   Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          - #### BK21 FOUR R&E Center for Artificial Intelligence, Korea University
+            Postdoc researcher\
+            Mar 2023 - Feb 2024
+
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -173,35 +224,7 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: right
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        # title: Korea University
-        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        # link_text: Link Text
-        # additional_links:
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        # quote: >
-        #   Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          - #### Korea University
-            Ph.D. in Computer Science and Engineering\
-            Adviser: Prof. SangKeun Lee\
-            Mar 2018 - Feb 2023
-
-          - #### Korea University
-            B.S. in Computer Science and Engineering\
-            Mar 2014 - Feb 2028
-
-  - title: Research Experience # Title for the section
+  - title: Teaching # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-right
@@ -220,9 +243,35 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          - #### BK21 FOUR R&E Center for Artificial Intelligence, Korea University
-            Postdoc researcher\
-            Mar 2023 - Feb 2024
+          - #### DFE624 Introduction to Data Science in Python
+            Instructor\
+            Fall 2023 at Korea University
+
+          - #### DFE611 Modern Information Retrieval Techniques
+            Instructor\
+            Spring 2023 at Korea University
+
+  - title: Service # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-right
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        # title: Korea University
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link_text: Link Text
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
+        #   Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          - #### Program Committee
+            AAAI (2023), ACL (2023), EMNLP (2022, 2023)
 
   # - title: Experience
   #   layout: list
