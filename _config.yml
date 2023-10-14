@@ -120,7 +120,7 @@ content:
 
           - #### Quantized Sparse Training: A Unified Trainable Framework for Joint Pruning and Quantization of DNNs
             **Jun-Hyung Park**, Kang-Min Kim, and SangKeun Lee\
-            **ACM TECS** Vol. 21, Issue. 5, No. 60
+            **ACM TECS** Volume 21, Issue 5
 
           - #### Learning from Missing Relations: Contrastive Learning with Commonsense Knowledge Graphs for Commonsense Inference
             **Jun-Hyung Park**\*, Yong-Ho Jung\*, Joon-Young Choi, Mingyu Lee, Junho Kim, Kang-Min Kim, and SangKeun Lee\
@@ -128,7 +128,7 @@ content:
 
           - #### Examining the Impact of Adaptive Convolution on Natural Language Understanding
             **Jun-Hyung Park**, Byung-Ju Choi, and SangKeun Lee\
-            **ESWA** Vol 189, No. 116044
+            **ESWA** Volume 189
 
       - layout: top-right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -156,6 +156,15 @@ content:
           - #### Adaptive Convolution for Text Classification
             Byung-Ju Choi, **Jun-Hyung Park**, and SangKeun Lee\
             Proceedings of **NAACL 2019**
+
+      - layout: top-right
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: "2018"
+        description: | 
+          - #### meChat: In-Device Personal Assistant for Conversational Photo Sharing
+            Kang-Min Kim\*, Woo-Jong Ryu\*, **Jun-Hyung Park**, SangKeun Lee\
+            **IEEE IC** Volume 23, Issue 2
 
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
