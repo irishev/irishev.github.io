@@ -75,7 +75,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: right
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         # title: Korea University
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -200,7 +200,7 @@ content:
             **Findings of EMNLP 2020**
 
       - layout: top-right
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: "2019"
         description: | 
@@ -228,7 +228,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-right
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         # title: Korea University
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -255,7 +255,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-right
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         # title: Korea University
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
