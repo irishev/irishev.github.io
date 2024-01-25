@@ -58,8 +58,8 @@ about_content: | # this will include new lines to allow paragraphs
   I am a postdoc researcher in BK21 FOUR R&E Center for Artificial Intelligence at Korea University. I have obtained my Ph.D. in Computer Science and Engineering from Korea University, advised by Prof. SangKeun Lee. I received B.S. in Computer Science and Engineering from Korea University.
 
   My primary research lies in the area of natural language processing and efficient AI:
-  - **Language Modeling**: Improving the various aspects of language models including effectiveness, efficiency, diversity, multilinguality, etc. Addressing any pipeline of language model development, ranging from pre-training to inference.
   - **Commonsense Reasoning**: Improving the commonsense reasoning capabilities of pre-trained models including language models and multi-modal transformers. Interested in augmenting the models with (implicit) commonsense knowledge by incorporating knowledge graphs and retrieving texts.
+  - **Language Models**: Improving the various aspects of language models including effectiveness, efficiency, diversity, multilinguality, etc. Addressing any pipeline of language model development, ranging from pre-training to inference.
   - **Model Compression**: Compressing and accelerating pre-trained models for efficient inference, such as network pruning, quantization, and knowledge distillation.
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
@@ -204,6 +204,10 @@ content:
                       # other value (or no value) means no border will be displayed
         title: "2019"
         description: | 
+          - #### meChat: In-device Conversational Photo Sharing Service (demo) 
+            Jungho Lee, Woo-Jong Ryu, Yoonjoo Ahn, Song-Eun Lee, Kang-Min Kim, **Jun-Hyung Park**, SangKeun Lee\
+            Proceedings of **MobiSys 2019**
+
           - #### Adaptive Convolution for Text Classification
             Byung-Ju Choi, **Jun-Hyung Park**, and SangKeun Lee\
             Proceedings of **NAACL 2019**
@@ -271,7 +275,7 @@ content:
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           - #### Program Committee
-            AAAI (2023), ACL (2023), EMNLP (2022, 2023)
+            ACL (2023), EMNLP (2022, 2023), NAACL (2024), AAAI (2023, 2024)
 
   # - title: Experience
   #   layout: list
