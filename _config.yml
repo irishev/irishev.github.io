@@ -130,19 +130,36 @@ content:
       - layout: top-right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
+        title: "2024"
+        description: | # this will include new lines to allow paragraphs
+          - #### Coconut: Contextualized Commonsense Unified Transformers for Graph-Based Commonsense Augmentation of Language Models
+            **Jun-Hyung Park**, Mingyu Lee, Junho Kim, and SangKeun Lee\
+            ACL 2024 Under Review
+
+          - #### Let’s Combine KOPS: Phoneme-Guided Korean Out-of-Vocabulary Processing System
+            Nayeon Kim, Eojin Jeon, **Jun-Hyung Park**, Mingyu Kim, and SangKeun Lee\
+            ACL 2024 Under Review
+
+          - #### Improving Molecular Property Prediction via Topology-Enhanced Chemical Language Model
+            Hyuntae Park, Mingyu Lee, **Jun-Hyung Park**, and SangKeun Lee\
+            ACL 2024 Under Review
+
+      - layout: top-right
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: "2023"
         description: | # this will include new lines to allow paragraphs
           - #### DIVE: Towards Descriptive and Diverse Visual Commonsense Generation
             **Jun-Hyung Park**\*, Hyuntae Park\*, Youjin Kang, Eojin Jeon, and SangKeun Lee\
-            To appear in Proceedings of **EMNLP 2023**
+            Proceedings of **EMNLP 2023**
 
           - #### Leap-of-Thought: Accelerating Transformers via Dynamic Token Routing
             Yeachan Kim, Junho Kim, **Jun-Hyung Park**, Mingyu Lee, and SangKeun Lee\
-            To appear in Proceedings of **EMNLP 2023**
+            Proceedings of **EMNLP 2023**
 
           - #### SMoP: Towards Efficient and Effective Prompt Tuning with Sparse Mixture-of-Prompts
             Joon-Young Choi, Junho Kim, **Jun-Hyung Park**, Wing-Lam Mok, and SangKeun Lee\
-            To appear in Proceedings of **EMNLP 2023** (short)
+            Proceedings of **EMNLP 2023**
 
           - #### Client-Customized Adaptation for Parameter-Efficient Federated Learning
             Yeachan Kim\*, Junho Kim\*, Wing-Lam Mok, **Jun-Hyung Park** and SangKeun Lee\
