@@ -120,7 +120,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - #### BK21 FOUR R&E Center for Artificial Intelligence, Korea University
             Postdoc researcher\
-            Mar 2023 - Feb 2024
+            Mar 2023 - Present
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
