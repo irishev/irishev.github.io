@@ -140,10 +140,6 @@ content:
             Nayeon Kim, Eojin Jeon, **Jun-Hyung Park**, Mingyu Kim, and SangKeun Lee\
             ACL 2024 Under Review
 
-          - #### Improving Molecular Property Prediction via Topology-Enhanced Chemical Language Model
-            Hyuntae Park, Mingyu Lee, **Jun-Hyung Park**, and SangKeun Lee\
-            ACL 2024 Under Review
-
       - layout: top-right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
