@@ -134,11 +134,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - #### Coconut: Contextualized Commonsense Unified Transformers for Graph-Based Commonsense Augmentation of Language Models
             **Jun-Hyung Park**, Mingyu Lee, Junho Kim, and SangKeun Lee\
-            ACL 2024 Under Review
-
-          - #### Let’s Combine KOPS: Phoneme-Guided Korean Out-of-Vocabulary Processing System
-            Nayeon Kim, Eojin Jeon, **Jun-Hyung Park**, Mingyu Kim, and SangKeun Lee\
-            ACL 2024 Under Review
+            To appear in **Findings of ACL 2024**
 
       - layout: top-right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
